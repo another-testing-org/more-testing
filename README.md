@@ -1,2 +1,2 @@
-# test-repo-0001
-this repo contains insecure code to test scanners
+# more-testing
+this repo contains insecure code to test scanners and ZTP
